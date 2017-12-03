@@ -18,7 +18,7 @@
 use function Docs\Functions\env;
 
 return [
-    'version'      => '1.0',
+    'version'      => '0.1',
     'timezone'     => env('APP_TIMEZONE', 'UTC'),
     'debug'        => env('APP_DEBUG'),
     'env'          => env('APP_ENV'),
