@@ -18,7 +18,7 @@ GIT_BIN=$(command -v git 2>/dev/null)
 PHP_BIN=$(command -v php 2>/dev/null)
 COMPOSER_BIN=$(command -v composer 2>/dev/null)
 
-DOCS_REPO=https://github.com/phalcon/docs
+DOCS_REPO=https://github.com/zemit-official/docs
 
 if [ -f .env ]; then
     source .env
