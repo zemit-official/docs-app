@@ -26,7 +26,7 @@ return [
     'name'         => env('APP_NAME'),
     'project'      => env('APP_PROJECT'),
     'description'  => env('APP_DESCRIPTION'),
-    'descriptionLong' => env('APP_DESCRIPTION_LONG', 'Official Phalcon Documentation'),
+    'descriptionLong' => env('APP_DESCRIPTION_LONG', 'Official Zemit Documentation'),
     'keywords'     => env('APP_KEYWORDS'),
     'repo'         => env('APP_REPO'),
     'docs'         => env('APP_DOCS'),
